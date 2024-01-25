@@ -1,0 +1,43 @@
+C:\Users\Computador_19\source\repos\AppScreenSplash\AppScreenSplash\bin\Debug\AppScreenSplash.exe.config
+C:\Users\Computador_19\source\repos\AppScreenSplash\AppScreenSplash\bin\Debug\AppScreenSplash.exe
+C:\Users\Computador_19\source\repos\AppScreenSplash\AppScreenSplash\bin\Debug\AppScreenSplash.pdb
+C:\Users\Computador_19\source\repos\AppScreenSplash\AppScreenSplash\obj\Debug\AppScreenSplash.csprojAssemblyReference.cache
+C:\Users\Computador_19\source\repos\AppScreenSplash\AppScreenSplash\obj\Debug\AppScreenSplash.FrmSplash.resources
+C:\Users\Computador_19\source\repos\AppScreenSplash\AppScreenSplash\obj\Debug\AppScreenSplash.Properties.Resources.resources
+C:\Users\Computador_19\source\repos\AppScreenSplash\AppScreenSplash\obj\Debug\AppScreenSplash.csproj.GenerateResource.cache
+C:\Users\Computador_19\source\repos\AppScreenSplash\AppScreenSplash\obj\Debug\AppScreenSplash.csproj.CoreCompileInputs.cache
+C:\Users\Computador_19\source\repos\AppScreenSplash\AppScreenSplash\obj\Debug\AppScreenSplash.exe
+C:\Users\Computador_19\source\repos\AppScreenSplash\AppScreenSplash\obj\Debug\AppScreenSplash.pdb
+C:\Users\Computador_19\source\repos\AppScreenSplash\AppScreenSplash\obj\Debug\AppScreenSplash.Form2.resources
+C:\Users\Usuário 16\Documents\Matheus\AppScreenSplash\AppScreenSplash\bin\Debug\AppScreenSplash.exe.config
+C:\Users\Usuário 16\Documents\Matheus\AppScreenSplash\AppScreenSplash\bin\Debug\AppScreenSplash.exe
+C:\Users\Usuário 16\Documents\Matheus\AppScreenSplash\AppScreenSplash\bin\Debug\AppScreenSplash.pdb
+C:\Users\Usuário 16\Documents\Matheus\AppScreenSplash\AppScreenSplash\obj\Debug\AppScreenSplash.csprojAssemblyReference.cache
+C:\Users\Usuário 16\Documents\Matheus\AppScreenSplash\AppScreenSplash\obj\Debug\AppScreenSplash.FrmSplash.resources
+C:\Users\Usuário 16\Documents\Matheus\AppScreenSplash\AppScreenSplash\obj\Debug\AppScreenSplash.Form2.resources
+C:\Users\Usuário 16\Documents\Matheus\AppScreenSplash\AppScreenSplash\obj\Debug\AppScreenSplash.Properties.Resources.resources
+C:\Users\Usuário 16\Documents\Matheus\AppScreenSplash\AppScreenSplash\obj\Debug\AppScreenSplash.csproj.GenerateResource.cache
+C:\Users\Usuário 16\Documents\Matheus\AppScreenSplash\AppScreenSplash\obj\Debug\AppScreenSplash.csproj.CoreCompileInputs.cache
+C:\Users\Usuário 16\Documents\Matheus\AppScreenSplash\AppScreenSplash\obj\Debug\AppScreenSplash.exe
+C:\Users\Usuário 16\Documents\Matheus\AppScreenSplash\AppScreenSplash\obj\Debug\AppScreenSplash.pdb
+C:\Users\Usuário 16\Documents\Matheus\AppScreenSplash\AppScreenSplash\obj\Debug\AppScreenSplash.Form3.resources
+C:\Users\Usuário 16\Documents\Matheus\AppScreenSplash\AppScreenSplash\obj\Debug\AppScreenSplash.Form4.resources
+D:\Downloads\Matheus\AppScreenSplash\AppScreenSplash\bin\Debug\AppScreenSplash.exe.config
+D:\Downloads\Matheus\AppScreenSplash\AppScreenSplash\bin\Debug\AppScreenSplash.exe
+D:\Downloads\Matheus\AppScreenSplash\AppScreenSplash\bin\Debug\AppScreenSplash.pdb
+D:\Downloads\Matheus\AppScreenSplash\AppScreenSplash\obj\Debug\AppScreenSplash.FrmSplash.resources
+D:\Downloads\Matheus\AppScreenSplash\AppScreenSplash\obj\Debug\AppScreenSplash.Form2.resources
+D:\Downloads\Matheus\AppScreenSplash\AppScreenSplash\obj\Debug\AppScreenSplash.Form3.resources
+D:\Downloads\Matheus\AppScreenSplash\AppScreenSplash\obj\Debug\AppScreenSplash.Properties.Resources.resources
+D:\Downloads\Matheus\AppScreenSplash\AppScreenSplash\obj\Debug\AppScreenSplash.csproj.GenerateResource.cache
+D:\Downloads\Matheus\AppScreenSplash\AppScreenSplash\obj\Debug\AppScreenSplash.csproj.CoreCompileInputs.cache
+D:\Downloads\Matheus\AppScreenSplash\AppScreenSplash\obj\Debug\AppScreenSplash.exe
+D:\Downloads\Matheus\AppScreenSplash\AppScreenSplash\obj\Debug\AppScreenSplash.pdb
+D:\Downloads\Matheus\AppScreenSplash\AppScreenSplash\obj\Debug\AppScreenSplash.FormProdutos.resources
+D:\Downloads\Matheus\AppScreenSplash\AppScreenSplash\obj\Debug\AppScreenSplash.Form4.resources
+D:\Downloads\Matheus\AppScreenSplash\AppScreenSplash\obj\Debug\AppScreenSplash.FormVendas.resources
+D:\Downloads\Matheus\AppScreenSplash\AppScreenSplash\obj\Debug\AppScreenSplash.frmCADUSUARIO.resources
+D:\Downloads\Matheus\AppScreenSplash\AppScreenSplash\bin\Debug\System.Data.SqlClient.dll
+D:\Downloads\Matheus\AppScreenSplash\AppScreenSplash\bin\Debug\System.Data.SqlClient.xml
+D:\Downloads\Matheus\AppScreenSplash\AppScreenSplash\obj\Debug\AppScreenSplash.csproj.CopyComplete
+D:\Downloads\Matheus\AppScreenSplash\AppScreenSplash\obj\Debug\AppScreenSplash.csproj.AssemblyReference.cache
